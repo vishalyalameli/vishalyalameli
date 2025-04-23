@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalyalameli&label=Profile%20views&color=0e75b6&style=flat" alt="vishalyalameli" /> </p>
 
-- 🔭 I’m currently working on **java Full Stack Project**
+- 🔭 I’m currently working on **Java Full Stack Project**
 
 - 🌱 I’m currently learning **Java , Collection Framework, Next.js, and Java with Spring Boot, Microservices, and Hibernate**
 
