@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalyalameli&label=Profile%20views&color=0e75b6&style=flat" alt="vishalyalameli" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently working on **java Full Stack Project**
 
-- 🌱 I’m currently learning **MERN, Next.js, and Java with Spring Boot, Microservices, and Hibernate**
+- 🌱 I’m currently learning **Java , Collection Framework, Next.js, and Java with Spring Boot, Microservices, and Hibernate**
 
 - 💬 Ask me about **ReactJS, NextJS, NodeJS, Express, JavaScript, TypeScript, MongoDB , Java with Spring Boot**
 
