@@ -1,75 +1,138 @@
 ![logo](./i.png)
+
 <h1 align="center">Hi 👋, I'm Vishal Yalameli</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Aspiring Data Engineer | Big Data & Cloud Data Engineering Enthusiast</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalyalameli&label=Profile%20views&color=0e75b6&style=flat" alt="vishalyalameli" /> </p>
-
-- 🔭 I’m currently working on **Java Full Stack Project**
-
-- 🌱 I’m currently learning **Java , Collection Framework, Next.js, and Java with Spring Boot, Microservices, and Hibernate**
-
-- 💬 Ask me about **ReactJS, NextJS, NodeJS, Express, JavaScript, TypeScript, MongoDB , Java with Spring Boot**
-
-- 📫 How to reach me **yalamelivishal555@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vishal yalameli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishal yalameli" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishal yalameli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal yalameli" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vishal yalameli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vishal yalameli" height="30" width="40" /></a>
-<a href="https://instagram.com/vishal_official_4982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal_official_4982" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vishal song beats" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishal song beats" height="30" width="40" /></a>
+<p align="center">
+Building scalable ETL pipelines, real-time streaming systems, and cloud-based data platforms using modern data engineering technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h1>Frontend<h1/>
+---
+
+## 🚀 About Me
+
+* 🔭 Currently working on **Real-Time Data Engineering Projects**
+* 🌱 Learning **PySpark, Spark Streaming, Kafka, Snowflake, Azure Data Engineering, Databricks, and Cloud Data Platforms**
+* 💡 Interested in **Big Data, Distributed Systems, ETL Pipelines, Data Warehousing, and Cloud Analytics**
+* 🎯 Career Focus: **Data Engineer / Big Data Engineer / Azure Data Engineer**
+* 📫 Reach me at: **[yalamelivishal555@gmail.com](mailto:yalamelivishal555@gmail.com)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/vishalyalameli" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/vishal_official_4982" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+</p>
+
+---
+
+# 💻 Data Engineering Tech Stack
+
+## 🐍 Programming Languages
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,ts,angular,vue,redux,tailwind,materialui,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,java" />
   </a>
 </p>
 
-# Backend
+---
+
+## ⚡ Big Data & Streaming
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kafka,docker" />
+</p>
+
+* Apache Spark
+* PySpark
+* Spark SQL
+* Spark Structured Streaming
+* Apache Kafka
+* Real-Time Streaming Pipelines
+
+---
+
+## 🗄️ Databases & Warehousing
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
   </a>
 </p>
 
- # Database
+* Snowflake
+* Data Warehousing
+* ETL / ELT Pipelines
+
+---
+
+## ☁️ Cloud & Data Platforms
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=azure,aws" />
   </a>
 </p>
 
-# Cloud Servers
+* Azure Data Factory
+* Azure Databricks
+* Azure Blob Storage
+* Cloud Data Pipelines
+
+---
+
+## 🛠️ Tools & Technologies
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,firebase" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker,idea" />
   </a>
 </p>
 
-# Mobile Application
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart" />
-  </a>
+* Git & GitHub
+* Docker
+* Linux
+* REST APIs
+* CI/CD Basics
+
+---
+
+# 📌 Featured Projects
+
+## 🚀 FinStream: Real-Time Streaming Data Engineering Platform
+
+* Built real-time streaming ETL pipelines using Kafka and Spark Structured Streaming
+* Processed live cryptocurrency market data from external APIs
+* Loaded processed data into PostgreSQL and Snowflake
+* Implemented Dockerized distributed data platform architecture
+* Applied checkpointing, schema enforcement, and multi-sink streaming
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vishalyalameli&show_icons=true&theme=tokyonight" />
 </p>
 
-# Deployment Servers
-<p align="left">
-<a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="50" height="50"/>
-<a href="https://netlify.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="50" height="50"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalyalameli&theme=tokyonight" />
 </p>
 
-# Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,eclipse,photoshop,redux,gitlab,docker,figma,linux,idea" />
-  </a>
-</p>
+---
 
+# 🚀 Goals for 2026
 
-
+* Master PySpark & Spark Optimization
+* Build Production-Level Data Pipelines
+* Learn Advanced Azure Data Engineering
+* Contribute to Open Source Data Projects
+* Crack Data Engineering Interviews
